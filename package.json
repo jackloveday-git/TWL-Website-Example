@@ -19,7 +19,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "npm start",
     "start": "react-app-rewired start",
     "build": "react-scripts build",
     "test": "react-scripts test",
