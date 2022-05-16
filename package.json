@@ -19,7 +19,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "npm start",
+    "deploy": "npm install && npm start",
     "start": "react-app-rewired start",
     "build": "react-scripts build",
     "test": "react-scripts test",
