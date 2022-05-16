@@ -1,7 +1,7 @@
 {
   "name": "twl-website-example",
   "version": "0.1.0",
-  "homepage": "third-wave.io",
+  "homepage": "https://jackloveday-git.github.io/TWL-Website-Example/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
